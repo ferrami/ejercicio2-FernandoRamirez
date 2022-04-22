@@ -10,8 +10,8 @@ h1 {
 }
 
 .contenedor {
-    width: 55em;
-    height: 15em;
+    width: 45%;
+    height: 145%;
     border-radius: 10px;
     border: 1px solid #000;
     position: absolute;
