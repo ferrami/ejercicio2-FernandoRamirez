@@ -1,0 +1,56 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+}
+
+h1 {
+    display: inline-block;
+    padding: 20px;
+}
+
+.contenedor {
+    width: 55em;
+    height: 15em;
+    border-radius: 10px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 100px;
+    left: 5em;
+    padding: 1.5em;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration-line: underline overline;
+    color: black;
+}
+
+a:hover {
+    color: magenta;
+}
+
+span {
+    color: red;
+}
+
+.verde {
+    color: green;
+    text-decoration-line: underline;
+}
+
+strong {
+    font-size: 50px;
+}
+
+b {
+    color: blue;
+    font-weight: 1000;
+}
+
+u {
+    color: red;
+}
